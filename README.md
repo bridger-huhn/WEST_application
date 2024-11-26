@@ -5,11 +5,10 @@ date: "2024-11-26"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
  This folder has three example R scripts from a recent publication I am finalizing. No data is provided.
+
+# My CV labeled: Bridger Huhn CV
 
  My github respositories are not publically available, but I did create one with WEST when I interned there. If I remember correctly it is under a name similar to Jackson_Lake_Levels. Simon Weller (at WEST) would know where to find it. 
 
